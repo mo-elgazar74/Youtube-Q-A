@@ -1,0 +1,7 @@
+app.py
+pyproject.toml
+youtube_qa.egg-info/PKG-INFO
+youtube_qa.egg-info/SOURCES.txt
+youtube_qa.egg-info/dependency_links.txt
+youtube_qa.egg-info/requires.txt
+youtube_qa.egg-info/top_level.txt
